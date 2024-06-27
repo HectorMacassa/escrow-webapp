@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.venv
+venv/
+env/
+env.bak/
+env.bak/
+.env
+
+# If your build process includes running collectstatic, you probably don't want to include your staticfiles directory
+staticfiles/
+
+# Logs
+*.log
+*.out
+*.err
+
+# Database
+*.sqlite3
+
+# Media
+/media
+
+# venv
+venv/
+ENV/
+env/
+env.bak/
+env.bak/
+.vscode/
+
+# Environments
+.env
+.env.*
+.idea/
+.vscode/
+*.iml
+
+# Node modules
+node_modules/
+
+# Build directories
+build/
+dist/
+.DS_Store
+
+# Package files
+*.egg
+*.egg-info/
+.eggs/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+__pycache__/
+pytest_cache/
+pytest_cache/
+
+# Code Analysis
+.pyre/
+pyre-check/
+.mypy_cache/
+dmypy.json
+dmypy/
+
+# IntelliJ
+.idea/
+
+# React/Node:
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Misc
+*.swp
+*~
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.stackdump
+
